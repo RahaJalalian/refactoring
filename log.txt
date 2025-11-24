@@ -1,3 +1,4 @@
+778b866 Task 2.2: Extract getVolumeCredits helper
 76cf5cc Task 2.1: Extract/refactor amount and play helpers
 417726a Task 1.1: Fix CheckStyle issues
 e813052 Task 1.2: Update git log in log.txt
